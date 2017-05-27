@@ -1,0 +1,23 @@
+# Caltrops-type secondary weapon. Variations deal different damage types.
+# Ship launches a mine, mine has large trigger radius. When triggered, launches submunitions randomly towards
+# the triggering target. Submunition launch pattern should approximate a circle around the target's current position
+# Submunitions simultaneously expire into a 1-frame life explosive object with a blast radius such that, if
+# launched in a circle, each blast radius would touch the center of the circle.
+# Note: These outfits deal splash damage! you'll get hit too... but dang they nice :)
+
+outfit "Warp Snare"
+	category "Secondary Weapons"
+
+
+
+outfit "Ion Snare"
+	category "Secondary Weapons"
+
+
+outfit "Thermal Snare"
+	category "Secondary Weapons"
+
+
+
+outfit "Phase Snare"
+	category "Secondary Weapons"
