@@ -1,0 +1,19 @@
+outfitter "Deep Sky Basics"
+	"Flak Cannon"
+	"Triple Flak Cannon"
+
+
+
+outfitter "Ammo North"
+	"Flak Canister"
+
+
+
+outfitter "Ammo South"
+	"Flak Canister"
+
+
+
+outfitter "Pirate Outfits"
+	"Flak Cannon"
+	"Triple Flak Cannon"
