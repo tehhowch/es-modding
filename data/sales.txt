@@ -1,19 +1,18 @@
 outfitter "Deep Sky Basics"
-	"Flak Cannon"
-	"Triple Flak Cannon"
-
+	"Warp Snare Setter"
+	"Snare"
 
 
 outfitter "Ammo North"
-	"Flak Canister"
+	"Snare"
 
 
 
 outfitter "Ammo South"
-	"Flak Canister"
+	"Snare"
 
 
 
 outfitter "Pirate Outfits"
-	"Flak Cannon"
-	"Triple Flak Cannon"
+	"Warp Snare Setter"
+	"Snare"
